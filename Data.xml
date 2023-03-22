@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <Flat>
+        <id>1388506845</id>
+        <name>FIRST</name>
+        <coordinates>
+            <x>1</x>
+            <y>2.0</y>
+        </coordinates>
+        <creationDate>1679489724</creationDate>
+        <area>3</area>
+        <numberOfRooms>4</numberOfRooms>
+        <timeToMetroOnFoot>5.0</timeToMetroOnFoot>
+        <timeToMetroByTransport>6.0</timeToMetroByTransport>
+        <furnish>NONE</furnish>
+        <house>
+            <name>HOUSE1</name>
+            <year>3</year>
+            <numberOfFloors>2</numberOfFloors>
+            <numberOfLifts>1</numberOfLifts>
+        </house>
+    </Flat>
+</data>
